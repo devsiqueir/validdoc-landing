@@ -1,0 +1,29 @@
+# dependências
+node_modules/
+.pnp/
+.pnp.js
+
+# produção
+dist/
+build/
+
+# ambiente
+.env
+.env.*.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# cache
+.cache/
